@@ -1,0 +1,39 @@
+.work-area {
+    margin: 20px 5%;
+}
+
+.body{
+    display: flex;
+}
+
+.code-area {
+    margin: 20px 0;
+    height: auto;
+    width: 130%;
+    background-color: rgb(31, 30, 30);
+    border-radius: 5px;
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    word-spacing: 0.5pt;
+}
+
+code-tag {
+    color: red;
+}
+
+code-id {
+    color: wheat;
+}
+
+code-id-name {
+    color: violet;
+}
+
+code-class {
+    color: blue;
+}
+
+code-class-name {
+    color: violet;
+}
